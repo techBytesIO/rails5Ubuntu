@@ -13,7 +13,7 @@ __Consists of:__
 * htop Process Viewer
 
 ## Standing up your Rails Development Environment
-Watch the tutorial on setting it up on [techBytes.io](http://www.techbytes.io/videos/16)
+Watch the tutorial on setting it up on [techBytes.io](https://youtu.be/f67MxpDks4w)
 ### Pull down the box from Vagrant
 You can download the box from the official [Vagrant site](https://atlas.hashicorp.com/techbytes/boxes/rails5Ubuntu)
 - or -
